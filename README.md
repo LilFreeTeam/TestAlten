@@ -1,4 +1,18 @@
-# Back-end
+# Alten Test
+
+## Commandes
+
+- Build: `docker-compose build`
+- Run: `docker-compose up -d`
+
+## Liens
+
+- Front: `http://localhost:4200/`
+- Back: `http://localhost:3000/api-docs`
+
+## Instructions
+
+### Back-end
 
 Développer un back-end permettant la gestion de produits définis plus bas. Vous pouvez utiliser la technologie de votre choix parmis la list suivante :
 
@@ -39,6 +53,6 @@ Un front-end en Angular est disponible et permet d'utiliser l'API via cette adre
 
 vous pouvez lancer le front-end angular avec la commande 'ng serve'
 
-# Bonus
+### Bonus
 
 Vous pouvez ajouter des tests Postman ou Swagger pour valider votre API
